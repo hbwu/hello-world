@@ -1,2 +1,5 @@
+
 # hello-world
-my first repository just for test
+
+Hi,everyone!
+I am a student major in A.I. and Deep Learning.
